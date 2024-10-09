@@ -46,8 +46,7 @@ Ensure that these libraries are installed in your Python environment before runn
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/sony-research-project.git
-    cd sony-research-project
+    https://github.com/kuldeep1909/Sony-Research-Machine-Learning-Project
     ```
 
 2. Install the necessary dependencies:
